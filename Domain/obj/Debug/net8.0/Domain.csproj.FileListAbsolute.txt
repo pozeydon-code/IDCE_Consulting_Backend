@@ -1,0 +1,49 @@
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\bin\Debug\net8.0\Domain.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\bin\Debug\net8.0\Domain.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\bin\Debug\net8.0\Domain.pdb
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.pdb
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\bin\Debug\net8.0\Domain.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,396 @@
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\appsettings.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.exe
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.deps.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.runtimeconfig.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.pdb
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Azure.Core.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\ErrorOr.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\FluentValidation.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\MediatR.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Application.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Domain.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Infrastructure.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Application.pdb
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Infrastructure.pdb
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Domain.pdb
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.csproj.AssemblyReference.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfoInputs.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfo.cs
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.csproj.CoreCompileInputs.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.API.props
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.API.props
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.API.props
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\scopedcss\bundle\Web.API.styles.css
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.csproj.Up2Date
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\refint\Web.API.dll
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.pdb
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.genruntimeconfig.cache
+E:\Trabajo\IDCE Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\ref\Web.API.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.exe
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.deps.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.runtimeconfig.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Web.API.pdb
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\ErrorOr.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Application.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Domain.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Application.pdb
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\bin\Debug\net8.0\Domain.pdb
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.csproj.AssemblyReference.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfoInputs.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfo.cs
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.API.props
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.API.props
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.API.props
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\scopedcss\bundle\Web.API.styles.css
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.csproj.Up2Date
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\refint\Web.API.dll
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.pdb
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\Web.API.genruntimeconfig.cache
+C:\Users\Chris\Downloads\CRUD_IDCE_Consulting\CRUD_IDCE_Consulting\Web.API\obj\Debug\net8.0\ref\Web.API.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\appsettings.Development.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\appsettings.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.staticwebassets.endpoints.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.exe
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.deps.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.runtimeconfig.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.pdb
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Azure.Core.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\ErrorOr.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\FluentValidation.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\MediatR.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Application.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Domain.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Infrastructure.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Application.pdb
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Infrastructure.pdb
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Domain.pdb
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.csproj.AssemblyReference.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfoInputs.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfo.cs
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.csproj.CoreCompileInputs.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cs
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.sourcelink.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\scopedcss\bundle\Web.API.styles.css
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.Web.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.API.props
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.API.props
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.API.props
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.csproj.Up2Date
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\refint\Web.API.dll
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.pdb
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.genruntimeconfig.cache
+D:\proyectos\IDCE_Consulting\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\ref\Web.API.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\appsettings.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.exe
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.deps.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.runtimeconfig.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Web.API.pdb
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Azure.Core.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\ErrorOr.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\FluentValidation.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\MediatR.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Application.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Domain.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Infrastructure.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Application.pdb
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Infrastructure.pdb
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\bin\Debug\net8.0\Domain.pdb
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.csproj.AssemblyReference.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfoInputs.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.AssemblyInfo.cs
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.csproj.CoreCompileInputs.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.API.props
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.API.props
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.API.props
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\scopedcss\bundle\Web.API.styles.css
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.csproj.Up2Date
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\refint\Web.API.dll
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.pdb
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\Web.API.genruntimeconfig.cache
+E:\Trabajo\Complete\IDCE_Consulting_Backend\Web.API\obj\Debug\net8.0\ref\Web.API.dll
